@@ -3,5 +3,8 @@
 2222222222222
 
 function dbsave() {
+	if(podminka) {
+		osetri()
+	}
 	save()
 }
