@@ -8,4 +8,5 @@ treti radek
 -----------------
 logout() {
 	log_out_of_the_app()
+	flush cache()
 }
