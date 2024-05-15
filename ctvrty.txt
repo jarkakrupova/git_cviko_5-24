@@ -2,3 +2,4 @@ ctvrty soubor vytvoren
 * * * * * * * *
 O/O/O/O/O/O
 ~~~~~~\__/~~~~~~
+toto bude konfliktni radek
